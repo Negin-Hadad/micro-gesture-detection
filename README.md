@@ -37,7 +37,7 @@ This project is built to run in a Jupyter Notebook / Google Colab environment.
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/micro-gesture-detection.git
+git clone https://github.com/Negin-Hadad/micro-gesture-detection.git
 cd micro-gesture-detection
 
 ```
