@@ -1,9 +1,3 @@
-Option 1
-
-Here is the updated `README.md` with a dedicated section for the DepVidMood dataset. Including this specific dataset adds a lot of academic weight, as it shows you are using domain-relevant data (depression/mood analysis) rather than just generic stock videos.
-
----
-
 # Micro-Gesture Detection & Emotion Reasoning Pipeline
 
 An end-to-end affective computing prototype designed to detect sub-second, concealed facial micro-gestures and use Large Language Models (LLMs) to contextually infer the subject's psychological state.
@@ -43,7 +37,7 @@ This project is built to run in a Jupyter Notebook / Google Colab environment.
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/micro-gesture-detection.git
+git clone https://github.com/Negin-Hadad/micro-gesture-detection.git
 cd micro-gesture-detection
 
 ```
