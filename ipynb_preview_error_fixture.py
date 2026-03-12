@@ -2,7 +2,7 @@
     How To Use:
     1. Save this script as ipynb_preview_error_fixture.py
     2. Run the script from the command line:
-        python ipynb_preview_error_fixture.py '..\llama_sentiment_analysis.ipynb'
+        python ipynb_preview_error_fixture.py '.\micro-gesture-detection.ipynb'
 """
 
 import json
